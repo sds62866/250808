@@ -38,7 +38,7 @@ public class AIServlet extends HttpServlet { // [1]
                 .text(); // text를 불러와줌. [10]
 //        req.setAttribute("data", "안녕하세요! 반갑습니다!"); // [6]
         req.setAttribute("data", data); // [11]
-        req.setAttribute("question", "오늘 저녁 메뉴 추천해줘"); // [question attribute 대응]
+        req.setAttribute("question", "오늘 미국 주요 지수 알려줘"); // [question attribute 대응]
         RequestDispatcher dispatcher = req.getRequestDispatcher(
                 "/WEB-INF/ai.jsp");
         dispatcher.forward(req, resp); // [4]

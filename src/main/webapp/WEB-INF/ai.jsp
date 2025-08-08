@@ -19,6 +19,8 @@
             font-weight: normal;
             font-style: normal;
         }
+
+
         /* body 안에 있는 텍스트들을 아래 지정한 폰트로 바꿔주겠다 */
         body {
             font-family: 'SunBatang-Light';
