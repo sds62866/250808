@@ -8,8 +8,8 @@
 <head>
     <title>내가 만든 챗봇</title>
     <!-- OG Tag -->
-    <meta property="og:title" content="내가 만든 챗봇">
-    <meta property="og:description" content="챗봇과 이야기 해보자.">
+    <meta property="og:title" content="주린이 구원자">
+    <meta property="og:description" content="주식에 대해 물어보자.">
     <!-- Web Font -->
     <style>
         /* SunBatang-Light 라는 이름으로 외부 링크의 폰트를 받아오겠다 */
